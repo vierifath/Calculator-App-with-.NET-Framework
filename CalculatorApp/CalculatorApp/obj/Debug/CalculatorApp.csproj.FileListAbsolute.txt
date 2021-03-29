@@ -1,0 +1,10 @@
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorApp.resources
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\VIERI FATH\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
